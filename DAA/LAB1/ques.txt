@@ -1,0 +1,3 @@
+Q1)IS PRESENT OR NOT IF PRESENT DISPLAY ITS POSITION OR I CONVENIENT MESSAGE
+Q2)WRITE A PROGRAM TO FIND OUT maximum sum of two no. display two no. 
+Q3)write full name and display initials in capital
