@@ -11,8 +11,6 @@ double sqrt1(int n, int prec)
     }
     return s;
 }
-#include <stdio.h>
-
 float findSQRT(int number)
 {
     int start = 0, end = number;
