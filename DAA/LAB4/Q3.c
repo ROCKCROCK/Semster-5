@@ -1,5 +1,5 @@
 #include <stdio.h>
-double sqrt1(int n, int prec)
+/*double sqrt1(int n, int prec)
 {
     double s = 0, d = 1;
     for (int i = 0; i < prec; i++, d /= 10)
@@ -10,7 +10,7 @@ double sqrt1(int n, int prec)
             return s;
     }
     return s;
-}
+}*/
 float findSQRT(int number)
 {
     int start = 0, end = number;
@@ -58,8 +58,8 @@ float findSQRT(int number)
 
 int main()
 {
-    int x = 11;
-    printf("%0.3f\n", sqrt1(x, 4));
+    // int x = 11;
+    // printf("%0.3f\n", sqrt1(x, 4));
     int num = 45;
     float res = findSQRT(45);
     printf("Sqrt of the number %d is %f ", num, res);
