@@ -44,7 +44,7 @@ int lcs(char *x, char *y, int m, int n)
 }
 int main()
 {
-    char x[20], y[20];
+    char x[20], y[20];             
     int m, n;
     printf("Enter the first string:");
     scanf("%s", x);
